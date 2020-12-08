@@ -1,5 +1,6 @@
 # Serposcope Docker image
 
+The latest version 2.12.0 of Serposcope has been added.
 ## Description
 
 Serposcope is a free and open-source rank tracker to monitor websites ranking
